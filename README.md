@@ -18,7 +18,7 @@ A responsive personal portfolio website built using HTML, CSS, and Bootstrap. It
 - Open `index.html` in your browser
 
 ## Live Demo
-[Add your GitHub Pages link here once deployed]
+https://github.com/prigya-goyal/portfolio-website/blob/main/index.html
 
 ## Author
 Prigya Goyal
